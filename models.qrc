@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/models">
+        <file>models/head.png</file>
+        <file>models/body.png</file>
+        <file>models/tail.png</file>
+        <file>models/corner.png</file>
+        <file>models/corner_mirror.png</file>
+        <file>models/big_head.png</file>
+        <file>models/apple.png</file>
+        <file>models/pop - Kopya.wav</file>
+        <file>models/hiss.wav</file>
+        <file>models/rattle.wav</file>
+    </qresource>
+</RCC>
