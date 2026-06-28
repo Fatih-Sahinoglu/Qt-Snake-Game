@@ -2,11 +2,10 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 ![Qt](https://img.shields.io/badge/Qt-6.x-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-17-00599C?style=for-the-badge&logo=c%2B%2B)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows)
 ![Game](https://img.shields.io/badge/Genre-Arcade-orange?style=for-the-badge)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
-[![Download](https://img.shields.io/badge/Download-Releases-black?style=for-the-badge&logo=github)](../../releases)
+[![Download](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge&logo=github)](../../releases)
+
 A polished recreation of the classic **Snake** game built with **C++** and the **Qt Framework**.
 
 This project was created as a learning exercise to explore **Qt's Graphics Framework**, **event-driven programming**, **collision detection**, and **object-oriented game architecture**. It also helped me understand the basics of 2D game development before moving on to a dedicated game engine.
@@ -14,10 +13,8 @@ This project was created as a learning exercise to explore **Qt's Graphics Frame
 ---
 
 <p align="center">
+<img width="788" height="792" alt="gameplay" src="https://github.com/user-attachments/assets/ee80784a-df2b-42a8-ade0-5480f4422ee0" />
 
-<!-- Gameplay GIF goes here -->
-
-<img src="YOUR_GAMEPLAY_GIF" width="750">
 
 </p>
 
@@ -38,9 +35,7 @@ The game starts with a custom animated menu instead of a static screen.
 
 <p align="center">
 
-<!-- Main Menu GIF -->
-
-<img src="YOUR_MENU_GIF" width="700">
+<img width="804" height="812" alt="menu" src="https://github.com/user-attachments/assets/ddb5a135-7977-4446-bcad-575e73f9d536" />
 
 </p>
 
@@ -59,9 +54,7 @@ The core gameplay stays faithful to the original Snake formula while keeping the
 
 <p align="center">
 
-<!-- Gameplay GIF -->
-
-<img src="YOUR_GAMEPLAY_GIF" width="700">
+<img width="788" height="792" alt="gameplay" src="https://github.com/user-attachments/assets/be385f08-bd9a-41dd-a458-2bb1c895857b" />
 
 </p>
 
@@ -73,9 +66,8 @@ Holding a movement key temporarily increases the snake's speed, making the game 
 
 <p align="center">
 
-<!-- Speed GIF -->
+<img width="750" height="742" alt="fast" src="https://github.com/user-attachments/assets/64c4032a-deb8-473c-a540-a6509427ea73" />
 
-<img src="YOUR_SPEED_GIF" width="700">
 
 </p>
 
@@ -234,7 +226,7 @@ Open the project using **Qt Creator**, configure the CMake project, then simply 
 
 # Releases
 
-Prebuilt Windows releases will be provided as **.zip** or **.rar** archives in the **Releases** section.
+Prebuilt Windows releases will be provided as **.zip** or **.rar** archives in the [Releases](../../releases) section.
 
 Download the archive, extract it, and run the executable directly.
 
@@ -262,4 +254,4 @@ LinkedIn: https://www.linkedin.com/in/fatih-şahinoğlu/
 
 # License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the  [MIT License](LICENSE).
